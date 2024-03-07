@@ -3,7 +3,6 @@
 Second Single Page Application
 
 
-
 ## Authors
 
 - [@matfen](https://github.com/Matfen2)
