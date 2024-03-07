@@ -90,6 +90,4 @@ app.post("/subscribe", (req, res) => {
   });
 });
 
-// POST
 
-// DELETE
